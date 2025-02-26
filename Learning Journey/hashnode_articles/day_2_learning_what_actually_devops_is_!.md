@@ -1,14 +1,4 @@
----
-title: "Day 2: Learning What Actually DevOps is !"
-seoTitle: "Understanding DevOps: A Beginner's Guide"
-seoDescription: "DevOps enhances collaboration, automates processes, and ensures seamless software deployment for faster, error-free updates"
-datePublished: Wed Feb 26 2025 12:02:23 GMT+0000 (Coordinated Universal Time)
-cuid: cm7lv8kd7000109jugrdp181a
-slug: day-2-learning-what-actually-devops-is
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740571258810/9e9544f9-6ae3-4750-9d1e-bbaed5fcdc31.webp
-tags: devops, day2, wemakedevs
-
----
+# Day 2: Learning What Actually DevOps is !
 
 Alright, today I learned about **DevOps**, and wow—turns out, it’s not just some fancy word tech people throw around to sound smart. It actually **fixes a lot of problems**. So, here’s what I learned, explained in the simplest way possible (with some sarcasm, of course).
 

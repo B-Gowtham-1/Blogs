@@ -1,13 +1,4 @@
----
-title: "Git & GitHub – The Beginner’s Guide"
-datePublished: Tue Feb 25 2025 06:12:29 GMT+0000 (Coordinated Universal Time)
-cuid: cm7k3aqc6000109js8f0g1zp9
-slug: git-and-github-the-beginners-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740463853139/a2804639-b593-4b13-82f0-810a90862c15.webp
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1740463926776/958e446f-085c-46a7-8e85-aa00490cc17e.webp
-tags: repository, github, git, merge, pull-requests, wemakedevs
-
----
+# Git & GitHub – The Beginner’s Guide
 
 ---
 

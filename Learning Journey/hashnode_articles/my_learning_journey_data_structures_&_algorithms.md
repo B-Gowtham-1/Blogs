@@ -1,14 +1,4 @@
----
-title: "My Learning Journey: Data Structures & Algorithms"
-seoTitle: "Data Structures & Algorithms Learning Path"
-seoDescription: "Follow my journey learning Data Structures & Algorithms with resources, tips, and personal insights. Let's understand and conquer DSA together!"
-datePublished: Mon Feb 24 2025 09:06:18 GMT+0000 (Coordinated Universal Time)
-cuid: cm7iu2f07000209jybz257quo
-slug: my-learning-journey-data-structures-and-algorithms
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740387480019/9aaa72d9-4983-4c1f-9c21-9ced6331def7.webp
-tags: java, dsa, kunalkushwaha, wemakedevs
-
----
+# My Learning Journey: Data Structures & Algorithms
 
 **Why I'm Doing This**
 

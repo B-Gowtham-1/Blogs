@@ -1,14 +1,4 @@
----
-title: "Day 2: Functions & Methods – A Simple Understanding"
-seoTitle: "Java Functions and Methods Simplified"
-seoDescription: "Learn how to harness the power of functions and methods in Java to streamline your code and automate tasks efficiently"
-datePublished: Wed Feb 26 2025 12:16:18 GMT+0000 (Coordinated Universal Time)
-cuid: cm7lvqgh3000e09le4k9s23kq
-slug: day-2-functions-and-methods-a-simple-understanding
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740572124681/d115776d-2e43-4fcf-a0b8-b1c25927314d.webp
-tags: java, dsa, kunalkushwaha, wemakedevs, datastructures
-
----
+# Day 2: Functions & Methods – A Simple Understanding
 
 So today, I learned about **functions and methods in Java**. Basically, instead of writing the same code **again and again** like a **copy-paste champion**, I can just write a function **once** and call it whenever needed.
 

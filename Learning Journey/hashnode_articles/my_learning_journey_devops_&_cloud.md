@@ -1,14 +1,4 @@
----
-title: "My Learning Journey: DevOps & Cloud"
-seoTitle: "DevOps & Cloud: My Learning Experience"
-seoDescription: "Join my DevOps and Cloud journey as I explore tools, tackle projects, and share insights, struggles, and breakthroughs. Let's learn together!"
-datePublished: Mon Feb 24 2025 09:28:09 GMT+0000 (Coordinated Universal Time)
-cuid: cm7iuuigf000m09laajwm85fc
-slug: my-learning-journey-devops-and-cloud
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740389203281/8253c637-1571-4e76-8879-b16acb612354.webp
-tags: cloud, cloud-computing, devops, wemakedevs, abhishek-veeramalla
-
----
+# My Learning Journey: DevOps & Cloud
 
 Deploying Dreams, Debugging Nightmares: My DevOps & Cloud Journey
 
