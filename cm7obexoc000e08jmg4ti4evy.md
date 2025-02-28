@@ -26,6 +26,10 @@ A **server** is just a powerful computer that stores, processes, and serves data
 
 Now, just like a bad restaurant, if the kitchen is slow or crashes, you won’t get your food—aka, the website won’t load.
 
+![How do servers work?](https://www.servers.com/dA/20e4199abe/image/Inside1.png align="left")
+
+(Credits for Image : Servers.com)
+
 ### **Types of Servers (Because One Wasn’t Enough)**
 
 1️⃣ **Web Servers** – These deliver web pages when you type a URL. (Yes, Google doesn’t live inside your computer—it comes from a web server!)
@@ -40,7 +44,6 @@ Now, just like a bad restaurant, if the kitchen is slow or crashes, you won’t 
 
 ![Server Diagram](https://via.placeholder.com/800x400?text=Server+Infrastructure align="left")
 
-  
 (*Yes, the internet is just servers talking to servers.*)
 
 ---
@@ -74,6 +77,10 @@ Now that we know servers are important, let’s make them even cooler. What if w
 
 Congratulations! You’ve just discovered **Virtual Machines (VMs)**.
 
+![An illustration of virtual computers stored inside physical computers as code.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/what-is-a-virtual-machine_overview-img?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1280&hei=431&qlt=95 align="left")
+
+(Image Credits : Azure Microsoft)
+
 ---
 
 ## **What is a Virtual Machine (VM)?**
@@ -92,7 +99,6 @@ Imagine you have a **giant pizza (server)**, and you cut it into **smaller slice
 
 ![Virtual Machines](https://via.placeholder.com/800x400?text=Virtual+Machines+Explained align="left")
 
-  
 (*One big machine running multiple smaller machines—genius!* 😎)
 
 ---
